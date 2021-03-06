@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### [Floodnut](https://floodnut.tistory.com/) This Blog may be upadated...
 <!--
 **gsniper777/gsniper777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
