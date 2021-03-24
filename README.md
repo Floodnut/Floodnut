@@ -13,7 +13,7 @@
 
 #### I wanna do...
 > C and C# Programming  
-> Fullstack Programming
+> Fullstack Programming   
 > Financial Deep Learning  
 
 <!--
