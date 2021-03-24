@@ -8,7 +8,7 @@
 
 #### Scheduled to do?
 > Fullstack Programming with Angular  
-> Deep Learning and Machine Learning Basic  
+> Deep Learning Basic  
 > System Hacking     
 
 #### I wanna do...
