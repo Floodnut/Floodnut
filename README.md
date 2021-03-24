@@ -7,13 +7,13 @@
 > Security  
 
 #### Scheduled to do?
-> Server Programming with Angular and React   
+> Fullstack Programming with Angular
 > Deep Learning and Machine Learning Basic  
 > System Hacking     
 
 #### I wanna do...
 > C and C# Programming  
-> Server Programming with Angular and React  
+> Fullstack Programming
 > Financial Deep Learning  
 
 <!--
