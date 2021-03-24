@@ -7,7 +7,13 @@
 > Security  
 
 #### Scheduled to do?
+> Server Programming with Angular and React 
 > Deep Learning and Machine Learning Basic  
+> System Hacking     
+
+#### I wanna do...
+> C and C# Programming  
+> Server Programming with Angular and React  
 > Financial Deep Learning  
 
 <!--
