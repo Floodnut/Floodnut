@@ -1,5 +1,15 @@
 ## Hi there 👋
 ### [Floodnut](https://floodnut.tistory.com/) This Blog may be updated...
+
+#### What am I do?   
+> Algorithm  
+> Backend Programming  
+> Security  
+
+#### Scheduled to do?
+> Deep Learning and Machine Learning Basic
+> Financial Deep Learning  
+
 <!--
 **gsniper777/gsniper777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
