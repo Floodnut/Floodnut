@@ -7,7 +7,7 @@
 > Security  
 
 #### Scheduled to do?
-> Deep Learning and Machine Learning Basic
+> Deep Learning and Machine Learning Basic  
 > Financial Deep Learning  
 
 <!--
