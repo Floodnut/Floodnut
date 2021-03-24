@@ -7,7 +7,7 @@
 > Security  
 
 #### Scheduled to do?
-> Fullstack Programming with Angular
+> Fullstack Programming with Angular  
 > Deep Learning and Machine Learning Basic  
 > System Hacking     
 
