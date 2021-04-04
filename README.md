@@ -1,17 +1,14 @@
-
-### [Floodnut](https://floodnut.tistory.com/) This Blog may be updated...
-
-#### What am I do?   
+#### Interest
 > Algorithm  
 > Backend Programming  
 > Security  
 
-#### Scheduled to do?
-> Fullstack Programming with Angular  
+#### Soon
+> About AngularJS    
 > Deep Learning Basic  
 > System Hacking     
 
-#### I wanna do...
+#### NEXT
 > C and C# Programming  
 > Fullstack Programming   
 > Financial Deep Learning  
