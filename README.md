@@ -6,11 +6,11 @@
 #### Soon
 > About AngularJS    
 > Deep Learning Basic  
-> System Hacking     
+> System Hacking   
+> Casper Connects    
 
 #### NEXT
-> C and C# Programming  
-> Fullstack Programming   
+> Go programming  
 > Financial Deep Learning  
 
 <!--
