@@ -6,7 +6,7 @@
 #### Soon
 > About AngularJS    
 > Deep Learning Basic  
-> System Hacking   
+> Nuxion 
 > Casper Connects    
 
 #### NEXT
