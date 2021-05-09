@@ -6,7 +6,7 @@
 #### Soon
 > About AngularJS    
 > Deep Learning Basic  
-> Nuxion 
+> Nuxion   
 > Casper Connects    
 
 #### NEXT
