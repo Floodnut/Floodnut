@@ -10,7 +10,7 @@
 > Backend Programming  
 > Security  
 
-## Soon
-> About AngularJS, VueJS    
-> Deep Learning Basic  
+## Soon   
+> Multi node Cluster and Understand Kubernetes
 > Go programming  
+> JS Framework & Library
