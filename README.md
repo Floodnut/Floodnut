@@ -7,9 +7,15 @@
 > Nuxion Plugin  
 
 ## Interest  
-> Backend Programming  
-> Security  
+<p align="left">
+<img src="https://img.shields.io/badge/Javascript-e6d419?style=flat-square&logo=javascript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Nodejs-18ba1e?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-a3a3a3?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-054480?style=flat-square&logo=python&logoColor=white"/>
+</p>
 
 ## Soon   
-> Multi node Cluster and Understand Kubernetes  
-> Go programming  
+<p align="left">
+<img src="https://img.shields.io/badge/kubernetes-4859f0?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-23c3db?style=flat-square&logo=go&logoColor=white"/>
+</p>
