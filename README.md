@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/python-054480?style=flat-square&logo=python&logoColor=white"/>
   <br>
 <img src="https://img.shields.io/badge/Nodejs-18ba1e?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/security-0f0f0f?style=flat-square&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-0f0f0f?style=flat-square&logo=attack&logoColor=white"/>
 </p>
 
 ## Soon   
