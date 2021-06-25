@@ -10,9 +10,10 @@
 ## Interest  
 <p align="left">
 <img src="https://img.shields.io/badge/Javascript-e6d419?style=flat-square&logo=javascript&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Nodejs-18ba1e?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-a3a3a3?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-054480?style=flat-square&logo=python&logoColor=white"/>
+  <br>
+<img src="https://img.shields.io/badge/Nodejs-18ba1e?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/security-0f0f0f?style=flat-square&logo=security&logoColor=white"/>
 </p>
 
