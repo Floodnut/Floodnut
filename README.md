@@ -3,9 +3,8 @@
 ## ON-AIR 
 > Study Community Connects  
 > Container Security & Kubernetes    
-> Java-Android App & Spring-Boot server  
-> Security  
-> Algorithm   
+> Java-Android App
+> Security    
 
 ## Interest  
 <p align="left">
