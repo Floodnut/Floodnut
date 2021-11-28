@@ -14,12 +14,13 @@
   <br>
 <img src="https://img.shields.io/badge/Nodejs-18ba1e?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Security-0f0f0f?style=flat-square&logo=attack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-06e00c?style=flat-square&logo=spring&logoColor=white"/>
+
 </p>
 
 ## Soon   
 <p align="left">
 <img src="https://img.shields.io/badge/Go-23c3db?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-06e00c?style=flat-square&logo=spring&logoColor=white"/>
 <!--img src="https://img.shields.io/badge/Java-ff6f22?style=flat-square&logo=java&logoColor=white"/-->
 <!--img src="https://img.shields.io/badge/Typescript-306ed1?style=flat-square&logo=typescript&logoColor=white"/-->
   <br>
