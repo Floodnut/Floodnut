@@ -3,8 +3,7 @@
 ## ON-AIR 
 > Study Community Connects  
 > Container Security & Kubernetes    
-> Java-Android App. 
-> Security    
+> Java-Android App.   
 
 ## Interest  
 <p align="left">
