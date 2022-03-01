@@ -2,8 +2,6 @@
 
 ## ON-AIR 
 > Spring Boot API SERVER  
-> Security Sidecar Container Security & Kubernetes    
-> Bugbounty
 
 ## Interest  
 <p align="left">
