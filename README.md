@@ -2,7 +2,6 @@
 
 ## ON-AIR 
 > Spring Boot API SERVER  
-> OAuth 2.0 & TLS
 
 ## Interest  
 <p align="left">
