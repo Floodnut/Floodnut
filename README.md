@@ -3,7 +3,7 @@
 ## 활동 소속
 > Best of the Best 11th - 보안제품개발 트랙 (2022.07~)  
 > 클라우드 동아리 Cloud Club 2th (2022.08~)  
-> 정보보안 동아리 CASPER (2017~)  
+> 정보보안 동아리 CASPER (2017 ~ 2022)  
 
 
 ## ON-AIR 
