@@ -5,11 +5,6 @@
 > 클라우드 동아리 Cloud Club 2th (2022.08~)  
 > 정보보안 동아리 CASPER (2017 ~ 2022)  
 
-
-## ON-AIR 
-> Spring Boot API SERVER  
-> BoB 11th Project
-
 ## Interest  
 <p align="left">
 <img src="https://img.shields.io/badge/Javascript-e6d419?style=flat-square&logo=javascript&logoColor=white"/>  
