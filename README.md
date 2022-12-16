@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Floodnut&fontAlign=75&fontSize=70&desc=I%27m%20gonna%20make%20it&descAlign=75)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Floodnut&fontAlign=75&fontSize=70&desc=I%27m%20gonna%20make%20it&descAlign=75)
+ -->
 ## 활동
 > Best of the Best 11th - 보안제품개발 트랙 (2022.07~)  
 > 클라우드 동아리 Cloud Club 2th (2022.08~)  
