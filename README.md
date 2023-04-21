@@ -5,11 +5,11 @@
 
 <div align="left">
  <h3> 활동 </h3>
-* KITRI BoB 11th 보안제품개발 트랙 (2022.07~2023.03) 
+* KITRI BoB 11th 보안제품개발 트랙
 <br>
-* 클라우드 동아리 Cloud Club 2th (2022.08~2022.01) 
+* 클라우드 동아리 Cloud Club
 <br>
-* 정보보안 동아리 CASPER (2017, 2021)
+* 정보보안 동아리 CASPER
 <br>
 </div>
 
