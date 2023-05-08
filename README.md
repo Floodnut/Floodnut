@@ -33,9 +33,9 @@
 <img src="https://img.shields.io/badge/Nodejs-18ba1e?style=flat-square&logo=node.js&logoColor=white"-->
 <img src="https://img.shields.io/badge/Go-1de1ff?style=flat-square&logo=Go&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<!--img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-5750ff?style=flat-square&logo=Kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/>-->
 
 
 
