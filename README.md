@@ -5,11 +5,13 @@
 
 <div align="left">
  <h3> 활동 </h3>
+* OSSCA 2023
+<br>
 * KITRI BoB 11th 보안제품개발 트랙
 <br>
-* 클라우드 동아리 Cloud Club(2022~)
+* 클라우드 동아리 Cloud Club
 <br>
-* 정보보안 동아리 CASPER(~2021)
+* 정보보안 동아리 CASPER
 <br>
 </div>
 
