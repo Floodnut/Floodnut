@@ -2,9 +2,9 @@
   <img align='right' img src="https://github-readme-stats.vercel.app/api?username=floodnut&show_icons=true&include_all_commits=true&count_private=true&layout=compact"/>
  </div>
 <div align='left'>
-
+<h2> DevOps Engineer </h2>
 <div align="left">
- <h3> 활동 </h3>
+ <h3> Activities </h3>
 * OSSCA 2023
 <br>
 * KITRI BoB 11th 보안제품개발 트랙
@@ -28,17 +28,10 @@
 	<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjongmin77">
 </a>
 
-<h3>Planning to study</h3>
-<!--img src="https://img.shields.io/badge/Javascript-ffe41f?style=flat-square&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Django-054480?style=flat-square&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-054480?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Nodejs-18ba1e?style=flat-square&logo=node.js&logoColor=white"-->
-<img src="https://img.shields.io/badge/Go-1de1ff?style=flat-square&logo=Go&logoColor=white"/>
-<br>
-<!--img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-5750ff?style=flat-square&logo=Kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/>-->
-
+<h3>Interested in</h3>
+<img src="https://img.shields.io/badge/Terraform-5750ff?style=flat-square&logo=Terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/>
 
 
  <!-- unused -->
