@@ -1,22 +1,22 @@
-<div>
-  <img align='right' img src="https://github-readme-stats.vercel.app/api?username=floodnut&show_icons=true&include_all_commits=true&count_private=true&layout=compact"/>
- </div>
 <div align='left'>
-<h2> DevOps Engineer </h2>
+<h2> DevOps Engineer (2023.07 ~) </h2>
 <div align="left">
- <h3> Activities </h3>
-* OSSCA 2023
-<br>
-* KITRI BoB 11th 보안제품개발 트랙
-<br>
-* 클라우드 동아리 Cloud Club
-<br>
-* 정보보안 동아리 CASPER
-<br>
-</div>
+<img align='right' img src="https://github-readme-stats.vercel.app/api?username=floodnut&show_icons=true&include_all_commits=true&count_private=true&layout=compact"/>
 
+### Activities
+> **KITRI Best of the Best** 11th, SW development
+> - Back-end/DevOps Engineer, Opensource Contributor
 
-<h3>Stack</h3>
+> **Cloud Club**, vendor-neutral IT club
+> - Cloud, DevOps
+
+> **Casper**, Cyber Security club
+> - Security, Bug-bounty, CERT
+
+> **OSSCA 2023**, Openstack
+> - Cloud, i18n team Korea
+
+<h3>Tech</h3>
 <img src="https://img.shields.io/badge/Java-711680?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-054480?style=flat-square&logo=python&logoColor=white">
   <br>
@@ -24,14 +24,13 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-4479A1?style=flat-square&logo=Mariadb&logoColor=white"/>
 
-<a style="float:right" href="https://solved.ac/jjongmin77">
-	<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjongmin77">
-</a>
-
 <h3>Interested in</h3>
 <img src="https://img.shields.io/badge/Terraform-5750ff?style=flat-square&logo=Terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/>
+
+
+
 
 
  <!-- unused -->
