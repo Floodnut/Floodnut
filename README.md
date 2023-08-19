@@ -1,7 +1,12 @@
 <div align='left'>
 <h2> DevOps Engineer (2023.07 ~) </h2>
 <div align="left">
-<img align='right' img src="https://github-readme-stats.vercel.app/api?username=floodnut&show_icons=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+> I am a DevOps/Back-end engineer who majored in Computer Engineering at CWNU, South Korea.  
+> I have a interest in cloud security, distributed systems, and I'm enthusiastic about the open-source ecosystem.  
+> I aspire to become an engineer who can develop and operate systems effectively from the perspective of Chaos Engineering.
+
+
 
 ### Activities
 > **KITRI Best of the Best** 11th, SW development
@@ -15,6 +20,8 @@
 
 > **OSSCA 2023**, Openstack
 > - Cloud, i18n team Korea
+
+<img align='right' img src="https://github-readme-stats.vercel.app/api?username=floodnut&show_icons=true&include_all_commits=true&count_private=true&layout=compact"/>
 
 <h3>Tech</h3>
 <img src="https://img.shields.io/badge/Java-711680?style=flat-square&logo=Java&logoColor=white">
