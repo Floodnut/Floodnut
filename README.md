@@ -3,7 +3,7 @@
 <div align="left">
 
 > I am a DevOps/Back-end engineer who majored in Computer Engineering at CWNU, South Korea.  
-> I have a interest in cloud security, distributed systems, and I'm enthusiastic about the open-source ecosystem.  
+> I have interest in cloud security, distributed systems, and I'm enthusiastic about the open-source ecosystem.  
 > I aspire to become an engineer who can develop and operate systems effectively from the perspective of Chaos Engineering.
 
 
