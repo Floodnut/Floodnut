@@ -2,9 +2,9 @@
 <h2> DevOps Engineer (2023.07 ~) </h2>
 <div align="left">
 
-> I am a DevOps/Back-end engineer who majored in Computer Engineering at CWNU, South Korea.  
-> I have interest in cloud security, distributed systems, and I'm enthusiastic about the open-source ecosystem.  
-> I aspire to become an engineer who can develop and operate systems effectively from the perspective of Chaos Engineering.
+> I am a DevOps/Back-end engineer who majored in Computer Engineering at South Korea.  
+> I'm interested in cloud security, distributed systems, and I'm enthusiastic about the open-source ecosystem.  
+> I aspire to become an engineer who can develop and operate systems effectively via the perspective of Chaos Engineering.
 
 
 
@@ -19,7 +19,7 @@
 > - Security, Bug-bounty, CERT
 
 > **OSSCA 2023**, Openstack
-> - Cloud, i18n team Korea
+> - Cloud, i18n
 
 <img align='right' img src="https://github-readme-stats.vercel.app/api?username=floodnut&show_icons=true&include_all_commits=true&count_private=true&layout=compact"/>
 
