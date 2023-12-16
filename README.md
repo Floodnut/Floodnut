@@ -1,5 +1,5 @@
 <div align='left'>
-<h2> DevOps Engineer (2023.07 ~) </h2>
+<h2> DevOps Engineer </h2>
 <div align="left">
 
 > I am a DevOps/Back-end engineer who majored in Computer Engineering at South Korea.  
