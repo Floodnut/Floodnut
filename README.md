@@ -2,7 +2,7 @@
 <h2> DevOps Engineer </h2>
 <div align="left">
 
-> I am a DevOps/Back-end engineer who majored in Computer Engineering at South Korea.  
+> I am a DevOps engineer who majored in Computer Engineering at South Korea.  
 > I'm interested in cloud security, distributed systems, and I'm enthusiastic about the open-source ecosystem.  
 > I aspire to become an engineer who can develop and operate systems effectively via the perspective of Chaos Engineering.
 
