@@ -18,8 +18,7 @@
 > **Casper**, Cyber Security club
 > - Security, Bug-bounty, CERT
 
-> **OSSCA 2023**, Openstack
-> - Cloud, i18n
+Openstack
 
 <img align='right' img src="https://github-readme-stats.vercel.app/api?username=floodnut&show_icons=true&include_all_commits=true&count_private=true&layout=compact"/>
 
@@ -30,13 +29,14 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-4479A1?style=flat-square&logo=Mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pulumi-5750ff?style=flat-square&logo=Pulumi&logoColor=white"/>
 
 <h3>Interested in</h3>
-<img src="https://img.shields.io/badge/Terraform-5750ff?style=flat-square&logo=Terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Openstack-ff2222?style=flat-square&logo=Openstack"/>
+
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/>
-
-
 
 
 
