@@ -33,7 +33,7 @@
 <h3>Interested in</h3>
 <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Openstack-ff2222?style=flat-square&logo=Openstack"/>
-
+<img src="https://img.shields.io/badge/Kubernetes-0b78ff?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/>
 
